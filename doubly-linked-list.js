@@ -7,8 +7,7 @@ class DoublyLinkedListNode {
 }
 
 class DoublyLinkedList {
-  constructor() {
-    // Your code here
+  constructor(next) {
   }
 
   addToHead(val) {
